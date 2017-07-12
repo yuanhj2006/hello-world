@@ -1,2 +1,2 @@
 # hello-world
-first execute project
+first excise project
